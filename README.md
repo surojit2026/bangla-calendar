@@ -37,7 +37,6 @@ A free online Bangla calendar tool to view **today's Bangla date**, monthly cale
 - [Bangla Date Today](https://bangladate.netstudy.in/) – Live daily Bangla date & time
 - [Fancy Fonts Generator](https://fancy-fonts.netstudy.in/) – Stylish text for social media
 - [Big Text Generator](https://big-text.netstudy.in/) – Large customizable text
-- And more free utilities at [netstudy.in](https://netstudy.in/)
 
 ## Tech Stack (for developers)
 
